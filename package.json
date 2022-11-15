@@ -19,8 +19,5 @@
     "aframe-scene",
     "webvr",
     "vr"
-  ],
-  "overrides": {
-    "graceful-fs": "^4.2.10"
-  }
+  ]
 }
