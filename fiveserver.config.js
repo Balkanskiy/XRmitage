@@ -1,4 +1,4 @@
-// fiveserver.config.js
+// five-server --port=8000
 module.exports = {
     host: '0.0.0.0', // default: '0.0.0.0' (could also be 'localhost' for example)
     remoteLogs: 'magenta', // true | false | Color
